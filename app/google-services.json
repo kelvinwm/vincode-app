@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "542203220179",
+    "firebase_url": "https://contactsbackup-ebac4.firebaseio.com",
+    "project_id": "contactsbackup-ebac4",
+    "storage_bucket": "contactsbackup-ebac4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542203220179:android:d388afe59e13f5db",
+        "android_client_info": {
+          "package_name": "com.icta.pdtpapp.contactsbackup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542203220179-s9sofik5eubqpgsmijqg8ad8qo3rkjfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvH98V3O_UR6C-Cj8gnCElhsW9hvaf78A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542203220179-s9sofik5eubqpgsmijqg8ad8qo3rkjfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542203220179:android:89bf45a6e5b18710dc4426",
+        "android_client_info": {
+          "package_name": "com.learnonline.online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542203220179-s9sofik5eubqpgsmijqg8ad8qo3rkjfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvH98V3O_UR6C-Cj8gnCElhsW9hvaf78A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542203220179-s9sofik5eubqpgsmijqg8ad8qo3rkjfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
